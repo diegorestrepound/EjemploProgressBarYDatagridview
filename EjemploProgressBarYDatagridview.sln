@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploProgressBarYDatagridview", "EjemploProgressBarYDatagridview\EjemploProgressBarYDatagridview.csproj", "{F771F6E6-FF30-4C4B-96CC-B21F1C39C44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F771F6E6-FF30-4C4B-96CC-B21F1C39C44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F771F6E6-FF30-4C4B-96CC-B21F1C39C44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F771F6E6-FF30-4C4B-96CC-B21F1C39C44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F771F6E6-FF30-4C4B-96CC-B21F1C39C44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09384592-0330-48ED-BF34-51CDED60F429}
+	EndGlobalSection
+EndGlobal
